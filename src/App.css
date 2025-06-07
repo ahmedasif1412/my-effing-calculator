@@ -10,9 +10,10 @@
 
 #calculator {
   border: 2px solid black;
-  width: 500px;
-  margin: 0 auto;
-  border-radius: 10px;
+  width: 400px;
+  margin: -36px;
+  border-radius: 45px;
+
 }
 
 #buttonContainer {
